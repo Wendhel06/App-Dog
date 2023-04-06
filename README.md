@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='./logo_readme.png'>
+  <img src="./logo_readme.png"/>
 </div>
 
 </br>
@@ -20,7 +20,7 @@
 <h2>ℹ️ Como utilizar</h2>
 
     Clone esse repositório
-    $ git clone https://github.com/Wendhel06/Dogs-Origamid.git
+    $ git clone https://github.com/Wendhel06/App-Dog.git
 
     Instalar dependências
     $ npm install
